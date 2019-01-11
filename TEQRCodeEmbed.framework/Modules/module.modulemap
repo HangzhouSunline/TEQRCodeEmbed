@@ -1,0 +1,6 @@
+framework module TEQRCodeEmbed {
+  umbrella header "TEQRCodeEmbed.h"
+
+  export *
+  module * { export * }
+}
